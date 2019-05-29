@@ -89,7 +89,7 @@ Registering the provider in the `@Injectable` metadata also allows Angular to op
 
 <div class="alert is-helpful">
 
-To learn more about providers, see the [Providers section](guide/providers).
+To learn 5more about providers, see the [Providers section](guide/providers).
 To learn more about injectors, see the [Dependency Injection guide](guide/dependency-injection).
 
 </div>
